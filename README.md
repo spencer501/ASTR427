@@ -1,1 +1,1 @@
-# ASTR472: Methods of Computational Astrophysics
+# ASTR 427: Methods of Computational Astrophysics
